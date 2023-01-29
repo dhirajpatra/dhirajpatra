@@ -17,3 +17,7 @@ teams and managing people.
 - ⚡ Fun fact: bron traveller, bicycle enthusiast, alternate energy lover
 
 #### You can find out my details Profile ✨ https://dhirajpatra.github.io ✨
+
+You can also connect me with
+
+<a href="https://www.linkedin.com/in/dhirajpatra/">![linkedin](https://github.com/dhirajpatra/linkedin.png "Linkedin")</a><a href="https://www.twitter.com/in/dhirajpatra/">![twitter](https://github.com/dhirajpatra/twitter.png "Twitter")</a>
