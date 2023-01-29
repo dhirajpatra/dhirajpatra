@@ -7,7 +7,7 @@ industry. Strong background in architecture design and problem-solving, with a p
 delivering successful projects on time and within budget. Skilled leader, with experience on leading
 teams and managing people.
 
-- 🔭 I’m currently working on `Solar Plant Tracker and AI project on it`
+- 🔭 I’m currently working on Solar Plant Tracker System and AI project on it
 - 🌱 I’m currently learning advance topics on Data Analytics and Data Science
 - 👯 I’m looking to collaborate on few open source product. Mainly based on Python, Docker, microservices, machine learning.
 - 🤔 I love to help people with knowledge sharing. I have created several beginner projects and make publicly avaiable in Github
