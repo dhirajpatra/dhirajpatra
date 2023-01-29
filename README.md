@@ -14,7 +14,7 @@ teams and managing people.
 - 💬 Ask me about Python, Django, Flask, Fast Api, Docker, Microservices, machine learning, data anlytics, data science, AWS, GCP, Azure, CI/CD, IoT...
 - 📫 How to reach me: dhiraj.patra@gmail.com
 - 😄 Pronouns: dhee-ra-j
-- ⚡ Fun fact: bron traveller, bicycle enthusiast, alternate energy lover
+- ⚡ Fun fact: born traveller, bicycle enthusiast, alternate energy lover
 
 #### You can find out my details Profile ✨ https://dhirajpatra.github.io ✨
 
