@@ -16,4 +16,4 @@ teams and managing people.
 - 😄 Pronouns: dhee-ra-j
 - ⚡ Fun fact: bron traveller, bicycle enthusiast, alternate energy lover
 
-### You can find our my details Profile ✨ [here]: https://dhirajpatra.github.io ✨
+### You can find our my details Profile ✨ https://dhirajpatra.github.io ✨
