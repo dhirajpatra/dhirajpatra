@@ -20,4 +20,4 @@ teams and managing people.
 
 You can also connect me with
 
-<a href="https://www.linkedin.com/in/dhirajpatra/"><img src="linkedin.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://www.twitter.com/in/dhirajpatra/"><img src="twitter.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://dev.to/settings"><img src="dev.png" height=40 width=40></img></a>
+<a href="https://www.linkedin.com/in/dhirajpatra/" target="_blank"><img src="linkedin.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://www.twitter.com/in/dhirajpatra/" target="_blank"><img src="twitter.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://dev.to/dhirajpatra" target="_blank"><img src="dev.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://dhirajpatra.medium.com" target="_blank"><img src="medium.png" height=40 width=40></img></a>
