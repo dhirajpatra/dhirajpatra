@@ -15,6 +15,7 @@ teams and managing people.
 - 📫 How to reach me: dhiraj.patra@gmail.com
 - 😄 Pronouns: dhee-ra-j
 - ⚡ Fun fact: born traveller, bicycle enthusiast, alternate energy lover
+- 🏬 Github: when I get a little time outside of office work, I create or update small applications and share here in github for you
 
 #### You can find out my details Profile ✨ https://dhirajpatra.github.io ✨
 
