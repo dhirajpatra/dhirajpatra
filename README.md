@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-__I'm a Solutions Architect and Engineer for Cloud applications__
+__I'm a Solutions Architect and Engineer for IoT, ML based Cloud applications__
 
 Highly experienced Principal Engineer and Engineering Lead with over 24 years of experience in the
 industry. Strong background in architecture design and problem-solving, with a proven track record of
