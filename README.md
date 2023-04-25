@@ -11,7 +11,7 @@ teams and managing people.
 - 🌱 I’m currently learning advance topics on Data Analytics and Data Science
 - 👯 I’m looking to collaborate on few open source product. Mainly based on Python, Docker, microservices, machine learning.
 - 🤔 I love to help people with knowledge sharing. I have created several beginner projects and make publicly avaiable in Github
-- 💬 Ask me about Python, Django, Flask, Fast Api, Docker, Microservices, machine learning, data anlytics, data science, AWS, GCP, Azure, CI/CD, IoT...
+- 💬 Ask me about Python, AI, ML, Django, Flask, Fast Api, Docker, Microservices, machine learning, data anlytics, data science, AWS, GCP, Azure, CI/CD, IoT...
 - 📫 How to reach me: dhiraj.patra@gmail.com
 - 😄 Pronouns: dhee-ra-j
 - ⚡ Fun fact: born traveller, bicycle enthusiast, alternate energy lover
