@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-__I'm a Solutions Architect and Engineer for IoT, ML based Cloud applications__
+__I'm a Software Architect and certified AI Engineer for IoT, ML based Cloud applications__
 
-Highly experienced Principal Engineer and Engineering Lead with over 24 years of experience in the
+Highly experienced Principal Engineer and Engineering Lead with over 25 years of experience in the
 industry. Strong background in architecture design and problem-solving, with a proven track record of
 delivering successful projects on time and within budget. Skilled leader, with experience on leading
 teams and managing people.
 
-- 🔭 I’m currently working on Solar Plant Tracker System and AI project on it
+- 🔭 I’m currently working on AI/ML, IoT, Drone patented projects in a nasdaq Solar Plant Tracker company
 - 🌱 I’m currently learning advance topics on Data Analytics and Data Science
 - 👯 I’m looking to collaborate on few open source product. Mainly based on Python, Docker, microservices, machine learning.
 - 🤔 I love to help people with knowledge sharing. I have created several beginner projects and make publicly avaiable in Github
