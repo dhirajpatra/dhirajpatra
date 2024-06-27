@@ -8,7 +8,7 @@ delivering successful projects on time and within budget. Skilled leader, with e
 teams and managing people.
 
 - 🔭 I’m currently working on AI/ML, IoT, and Cloud projects as Solution Architect and Engineer
-- 🌱 I’m currently learning advanced topics on Data Analytics and Data Science besides MTech in Cloud Computing from IIT-P
+- 🌱 I’m currently learning advanced topics on LLM, GenAI, Data Analytics and Data Science 
 - 👯 I’m looking to collaborate on a few open-source products. Mainly based on Python, Docker, microservices, machine learning.
 - 🤔 I love to help people with knowledge sharing. I have created several beginner projects and make publicly avaiable in Github
 - 💬 Ask me about Python, AI, ML, Django, Flask, Fast Api, Docker, Microservices, machine learning, data anlytics, data science, AWS, GCP, Azure, CI/CD, IoT...
