@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-__I'm a Software Architect and certified AI Engineer for IoT, ML based Cloud applications__
+__I'm a Software Architect and certified AI ML Engineer for Cloud applications__
 
 Highly experienced Principal Engineer and Engineering Lead with over 25 years of experience in the
 industry. Strong background in architecture design and problem-solving, with a proven track record of
