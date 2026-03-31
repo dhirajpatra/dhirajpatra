@@ -33,8 +33,7 @@ I focus on **making systems work in production under constraints**, not just in 
 ### 🛠 Tech I work with
 
 **Languages & Frameworks:**  
-Python, FastAPI, Django, Flask
-RUST, Java, JavaScript, C++, C, PHP
+Python, FastAPI, Django, Flask, Rust, Java, JavaScript, C++, C, PHP
 
 **AI/ML & Data:**  
 Agents, LLMs, GenAI, Machine Learning, Data Analytics  
