@@ -1,24 +1,85 @@
 ### Hi there 👋
 
-__I'm a Software Architect and certified AI ML Engineer for Cloud applications__
+## Dhiraj Patra  
+**Software Architect | AI/ML Engineer | Forward-Deployed Builder**
 
-Highly experienced Principal Engineer and Engineering Lead with over 25 years of experience in the
-industry. Strong background in architecture design and problem-solving, with a proven track record of
-delivering successful projects on time and within budget. Skilled leader, with experience on leading
-teams and managing people.
+I build and deploy **production-grade systems that solve real-world problems**.
 
-- 🔭 I’m currently working on AI/ML, IoT, and Cloud projects as Solution Architect and Engineer
-- 🌱 I’m currently learning advanced topics on LLM, GenAI, Data Analytics and Data Science 
-- 👯 I’m looking to collaborate on a few open-source products. Mainly based on Python, Docker, microservices, machine learning.
-- 🤔 I love to help people with knowledge sharing. I have created several beginner projects and make publicly avaiable in Github
-- 💬 Ask me about Python, AI, ML, Django, Flask, Fast Api, Docker, Microservices, machine learning, data anlytics, data science, AWS, GCP, Azure, CI/CD, IoT, PHP, Wordpress...
-- 📫 How to reach me: dhiraj.patra@gmail.com
-- 😄 Pronouns: dhee-ra-j
-- ⚡ Fun fact: born traveller, bicycle enthusiast, alternate energy lover
-- 🏬 Github: when I get a little time outside of office work, I create or update small applications and share here in github for you
+Over 25+ years, my work has evolved across roles—solutions architecture, full-stack engineering, and customer-facing deployments—but the constant has been **end-to-end ownership**: from problem definition to system design, implementation, and real-world impact.
 
-#### You can find out my details Profile ✨ https://dhirajpatra.github.io ✨
+I focus on **making systems work in production under constraints**, not just in ideal conditions.
 
-You can also connect me with
+---
 
-<a href="https://www.linkedin.com/in/dhirajpatra/" target="_blank"><img src="linkedin.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://www.twitter.com/in/dhirajpatra/" target="_blank"><img src="twitter.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://dev.to/dhirajpatra" target="_blank"><img src="dev.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://dhirajpatra.medium.com" target="_blank"><img src="medium.png" height=40 width=40></img></a> &nbsp;&nbsp; <a href="https://dhirajpatra.blogspot.com" target="_blank"><img src="blogger.jpeg" height=40 width=40></img></a>
+### 🚀 What I do
+
+- Build **LLM-powered and AI-driven systems** that are reliable, secure, and usable  
+- Design **end-to-end architectures** across cloud, data, and application layers  
+- Work directly with **users, domain experts, and stakeholders** to solve complex problems  
+- Take ownership of **deployment, iteration, and long-term system behavior**
+
+---
+
+### 🧠 Current Focus
+
+- LLM Systems, GenAI, and Retrieval-Augmented Generation (RAG)  
+- Scalable Cloud Architectures (AWS, GCP, Azure)  
+- Microservices, APIs, and Distributed Systems  
+- Data Engineering, Analytics, and Decision Systems  
+- IoT + AI integration for real-world applications  
+
+---
+
+### 🛠 Tech I work with
+
+**Languages & Frameworks:**  
+Python, FastAPI, Django, Flask  
+
+**AI/ML & Data:**  
+LLMs, GenAI, Machine Learning, Data Analytics  
+
+**Infrastructure & Tools:**  
+Docker, Microservices, CI/CD, Cloud (AWS/GCP/Azure)  
+
+---
+
+### 🧩 How I think
+
+- Start from **first principles**, not tools  
+- Optimize for **real-world usability and reliability**  
+- Prefer **simple, maintainable systems over complex abstractions**  
+- Measure success by **impact, not implementation**
+
+---
+
+### 🤝 Open Source & Community
+
+I actively share knowledge by building **practical, beginner-friendly projects** and contributing to open-source—especially in Python, AI/ML, and distributed systems.
+
+---
+
+### 📫 Reach me
+
+Email: **dhiraj.patra@gmail.com**  
+
+---
+
+### 🌐 More about me
+
+✨ https://dhirajpatra.github.io ✨  
+
+---
+
+### 🔗 Connect
+
+- LinkedIn: https://www.linkedin.com/in/dhirajpatra/  
+- Twitter: https://www.twitter.com/in/dhirajpatra/  
+- Dev.to: https://dev.to/dhirajpatra  
+- Medium: https://dhirajpatra.medium.com  
+- Blog: https://dhirajpatra.blogspot.com  
+
+---
+
+### ⚡ Beyond work
+
+Traveler | Cycling enthusiast | Interested in alternative energy systems
