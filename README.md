@@ -13,7 +13,7 @@ I focus on **making systems work in production under constraints**, not just in 
 
 ### 🚀 What I do
 
-- Build **LLM-powered and AI-driven systems** that are reliable, secure, and usable  
+- Build **LLM-powered Agentic and AI-driven systems** that are reliable, secure, and usable  
 - Design **end-to-end architectures** across cloud, data, and application layers  
 - Work directly with **users, domain experts, and stakeholders** to solve complex problems  
 - Take ownership of **deployment, iteration, and long-term system behavior**
@@ -22,7 +22,7 @@ I focus on **making systems work in production under constraints**, not just in 
 
 ### 🧠 Current Focus
 
-- LLM Systems, GenAI, and Retrieval-Augmented Generation (RAG)  
+- Agentic Systems, GenAI, and Retrieval-Augmented Generation (RAG), LLM, SLM  
 - Scalable Cloud Architectures (AWS, GCP, Azure)  
 - Microservices, APIs, and Distributed Systems  
 - Data Engineering, Analytics, and Decision Systems  
@@ -33,13 +33,14 @@ I focus on **making systems work in production under constraints**, not just in 
 ### 🛠 Tech I work with
 
 **Languages & Frameworks:**  
-Python, FastAPI, Django, Flask  
+Python, FastAPI, Django, Flask
+RUST, Java, JavaScript, C++, C, PHP
 
 **AI/ML & Data:**  
-LLMs, GenAI, Machine Learning, Data Analytics  
+Agents, LLMs, GenAI, Machine Learning, Data Analytics  
 
 **Infrastructure & Tools:**  
-Docker, Microservices, CI/CD, Cloud (AWS/GCP/Azure)  
+Docker, Microservices, CI/CD, MLOps, Cloud (AWS/GCP/Azure)  
 
 ---
 
